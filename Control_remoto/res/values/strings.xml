@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control_remoto</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Alante">Alante</string>
+    <string name="Alante_izq">Alante izq</string>     
+    <string name="Alante_der">Alante der</string>
+    <string name="Atras">Atras</string>
+    <string name="Atras_izq">Atras izq</string>     
+    <string name="Atras_der">Atras der</string>
+    <string name="Parar">Stop</string>  
+    <string name="Result">Conectado</string>
+    <string name="Connect">Connect</string>
+    <string name="Vacio"></string>
+    <string name="Manual"></string>
+    <string name="manual">Manual</string>
+    <string name="Giroscopio"></string>
+    <string name="Giro">Giroscopio</string>
+    <string name="voz"></string>
+    <string name="Voz">Voz</string>     
+    
+
+</resources>
